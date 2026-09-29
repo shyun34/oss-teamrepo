@@ -1,6 +1,6 @@
 # oss-teamrepo
 
-oss teamrepo
+2학년 2학기 팀 과제입니다 
 
 우리 팀의 과제입니다.
 
